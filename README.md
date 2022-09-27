@@ -14,7 +14,7 @@ Phone pay help to transfer a money, Paying bills.
 </div>
 
 <h2 align="left"><i>You can find Deploy link here</i></h2>
-<h3 align="left"><a href="#" target="_blank"> CampaingMonitor.com (  )</a></h3>
+<h3 align="left"><a href="#" target="_blank"></a></h3>
 
 <h2>Key Learning From Project</h2>
 <p>Got more Idea about implementing a HTML and CSS.</p>
@@ -24,7 +24,7 @@ Phone pay help to transfer a money, Paying bills.
 <p>learn how More effient way to plan a work.</p>
 <p>project to biuld a more communication skills and also filled a communication gaps</p>
 
-<h2 align="left"><i> We Use Deploy tool:</i></h2>
+<h2 align="left"><i> I Used Deploy tool:</i></h2>
 <div align="left">
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div>
